@@ -1,2 +1,3 @@
 This is my test file.
 My new testing line.
+I want to correct my second commit, at this point only with gitignore...
