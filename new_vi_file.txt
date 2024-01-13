@@ -3,3 +3,4 @@ My new testing line.
 I want to correct my second commit, at this point only with gitignore...
 <<< this line is inserted directly on github >>>
 it works!
+Interesting: after push, can i see all the commit I've made?
